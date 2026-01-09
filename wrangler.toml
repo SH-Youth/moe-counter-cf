@@ -4,7 +4,7 @@ compatibility_date = "2024-02-27"
 workers_dev = false
 
 [[routes]]
-pattern = "moe-counter.saihentai.dpdns.org"
+pattern = "moe-counter.saihentai.qzz.io"
 custom_domain = true
 
 [build]
